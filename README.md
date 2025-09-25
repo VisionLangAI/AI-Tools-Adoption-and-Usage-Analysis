@@ -1,1 +1,4 @@
 # AI-Tools-Adoption-and-Usage-Analysis
+
+
+The dataset comprises 50,000 fully anonymized records collected from both students and teachers across diverse educational levels and subject areas. It integrates structured survey responses on AI tool adoption in education, capturing participants’ feedback, perceptions, and experiences with AI-assisted learning and teaching. The data include sentiment-labeled textual feedback, learning outcomes (pre- and post-test scores, task completion, adaptive difficulty progression), engagement measures (session logs, usage frequency, time on tasks), and perception variables such as usefulness, ease of use, trust, and ethical concerns. All entries are anonymized, ensuring that no personal identities or sensitive information are disclosed, thereby maintaining privacy while providing a rich resource for exploring AI adoption, sentiment analysis, and adaptive learning patterns in education.
